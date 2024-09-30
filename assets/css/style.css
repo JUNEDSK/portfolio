@@ -1784,7 +1784,7 @@ label {
 }
 @media (max-width: 1199px) {
   .cs_fs_67 {
-    font-size: 40px;
+    font-size: 56px;
   }
 }
 @media (max-width: 991px) {
@@ -1804,7 +1804,7 @@ label {
 }
 @media (max-width: 991px) {
   .cs_fs_90 {
-    font-size: 40px;
+    font-size: 58px;
   }
 }
 
@@ -3929,3 +3929,5 @@ hr {
 .cs_portfolio.cs_style_1 .cs_portfolio_grid_btn.text-center {
   margin-top: -5px;
 }/*# sourceMappingURL=style.css.map */
+
+.previewLink{margin-top: 20px; text-align: center; margin-bottom: 20px;}
